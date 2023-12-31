@@ -17,7 +17,7 @@ Tesseract isn't always perfect at picking up text near or in a page layout box, 
 Part of the conversion uses WAV files which are horrendously bad if your converting large pdf's and can very easily eat up too much disk space, final step in my script deletes them leaving only mp3 files but it can take up a lot of space while converting 
 
 # Additional Licencing / legal 
-Obviously I don't own the rights to pdftoppm, tesseract-ocr, espeak (or its mbrola voices), ffmpeg or the concept a for loop on a directory, the currectly licencisng listed is really so that people can take what i have made and use it in a GPL 3 way. I also take the usual legal statement of No responsibility for any harm that this software causes, You can look at the code and choose to run it at your own risk 
+Obviously I don't own the rights to pdftoppm, tesseract-ocr, espeak (or its mbrola voices), ffmpeg or the concept a for loop on a directory, the currectly licencing listed is really so that people can take what i have made and use it in a GPL 3 way. I also take the usual legal statement of No responsibility for any harm that this software causes, You can look at the code and choose to run it at your own risk 
 
 All the code in this script is code i pieced together with the help of stack overflow and various coding websites, the only exception being the install script for the dependencies which chatgpt basically wrote 
 
