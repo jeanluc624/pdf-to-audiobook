@@ -1,10 +1,10 @@
 # pdf-to-audiobook
-converts pdf to multiple audio files for so that you can listen to content even if you don't have much time
+Converts pdf to multiple audio files for so that you can listen to content even if you don't have much time
 
 If your looking to hypothetically convert .epub's you could use Calibre's ebook-convert tool to convert it to pdf then to mp3, command syntax would be ebook-convert epubName.epub epubName.pdf
 
 # Very Important
-before you run this software, run the installer script to download nessesary dependent software, this script is designed in its current form to run on a single pdf from within a user made directory, running outside of this enviroment will cause unexpected or unwanted behaviour, check the code yourself to see what its doing. 
+Before you run this software, run the installer script to download nessesary dependent software, this script is designed in its current form to run on a single pdf from within a user made directory, running outside of this enviroment will cause unexpected or unwanted behaviour, check the code yourself to see what its doing. 
 
 This script when run should create 3 folders using the desired output name, one for the images of each page in the pdf file, one for detected text on each page of the pdf file and one for the mp3 audio files
 
